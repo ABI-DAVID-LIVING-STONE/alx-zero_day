@@ -1,2 +1,2 @@
 My first readme
-updated vrsion of this readme
+updated version of this readme
